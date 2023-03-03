@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11dcb8ed-a26c-4646-93a8-b29018903cf8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/org/campus02/animals/Nature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/campus02/animals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/campus02/animals/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/campus02/animals/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/campus02/animals/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/campus02/animals/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/campus02/animals/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/campus02/animals/DemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/campus02/animals/DemoApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/campus02/animals/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/campus02/animals/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/campus02/animals/Flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/campus02/animals/Flyable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/campus02/animals/Frog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/campus02/animals/Frog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/campus02/arraysort/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/campus02/arraysort/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/campus02/arraysort/Sortable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/campus02/arraysort/Sortable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/campus02/arraysort/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/campus02/arraysort/Sorting.java" afterDir="false" />
-    </list>
+    <list default="true" id="11dcb8ed-a26c-4646-93a8-b29018903cf8" name="Changes" comment="OOP - Übungsbeispiel OOP fertig" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,6 +79,18 @@
       <option name="presentableId" value="Default" />
       <updated>1677861698804</updated>
     </task>
+    <task id="LOCAL-00001" summary="OOP - Übungsbeispiel OOP fertig">
+      <created>1677886194673</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677886194673</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="OOP - Übungsbeispiel OOP fertig" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP - Übungsbeispiel OOP fertig" />
   </component>
 </project>
