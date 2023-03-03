@@ -1,3 +1,5 @@
+package org.campus02.animals;
+
 public class Bird extends  Animal implements Flyable{
     public Bird(String color, int countEyes, String name) {
         super(color, countEyes, name);

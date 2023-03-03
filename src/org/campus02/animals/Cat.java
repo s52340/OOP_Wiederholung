@@ -1,3 +1,5 @@
+package org.campus02.animals;
+
 public class Cat extends Animal{
 
     public Cat(String color, int countEyes, String name) {

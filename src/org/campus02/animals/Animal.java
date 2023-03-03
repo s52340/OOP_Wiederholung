@@ -1,3 +1,5 @@
+package org.campus02.animals;
+
 public abstract class Animal {
     private String color;
     private int countEyes;
